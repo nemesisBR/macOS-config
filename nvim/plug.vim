@@ -28,6 +28,7 @@ if has("nvim")
   Plug 'windwp/nvim-autopairs'
   Plug 'windwp/nvim-ts-autotag'
   Plug 'airblade/vim-gitgutter'
+  Plug 'lervag/vimtex'
 endif
 
 Plug 'groenewege/vim-less', { 'for': 'less' }
